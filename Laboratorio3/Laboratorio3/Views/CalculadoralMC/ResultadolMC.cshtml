@@ -1,4 +1,7 @@
-﻿<!DOCTYPE html>
+﻿@{ 
+    ViewBag.Title = "IMC";
+}
+<!DOCTYPE html>
 <html>
     <head>
         <title> Resultado IMC </title>
@@ -18,7 +21,7 @@
                 </tr>
 
                 <tr>
-                    <td>Fila 1, Columna 1</td>
+                    <td>@ViewBag.persona.Nombre</td>
                     <td>Fila 1, Columna 2</td>
                     <td>Fila 1, Columna 3</td>
                 </tr>
@@ -44,6 +47,20 @@
         <div class="seccion_3"id="s3">
             <input type="button"value="Soy un Boton"/><hr/>
             <a class="btn btn-info">Soy un link que parece boton</a>
+        </div>
+
+        <div class="seccion_4">
+            @if (ViewBag.IMC > 20)
+            {
+                <div class="text-success">
+                    <p>Mensaje</p>
+                </div>
+            } else
+            {
+                <div class="text-danger">
+                    <p>Otro mensaje</p>
+                </div>
+            }
         </div>
     </body>
 </html>
