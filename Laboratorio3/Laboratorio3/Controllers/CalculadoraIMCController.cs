@@ -1,4 +1,5 @@
-﻿using System.Web.Mvc;
+﻿using System;
+using System.Web.Mvc;
 using Laboratorio3.Models;
 
 namespace Laboratorio3.Controllers
@@ -17,8 +18,20 @@ namespace Laboratorio3.Controllers
 
         public ActionResult ResultadosAleatoriosIMC()
         {
-
+            for (int i = 0; i < 30; ++i)
+            {
+                PersonaModel persona = new PersonaModel(1, "Pepe", GetRandomNumber(20, 150), GetRandomNumber(1, 2));
+                double IMC = persona.Peso / (persona.Estatura * persona.Estatura);
+                ViewBag.IMC = IMC;
+                ViewBag.persona = persona;
+            }       
             return View();
+        }
+
+        public double GetRandomNumber(double minimum, double maximum)
+        {
+            Random random = new Random();
+            return random.NextDouble() * (maximum - minimum) + minimum;
         }
     }
 }
