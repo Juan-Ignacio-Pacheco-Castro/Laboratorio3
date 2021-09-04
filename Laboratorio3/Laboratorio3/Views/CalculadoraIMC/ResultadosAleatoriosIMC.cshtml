@@ -40,7 +40,19 @@
                     <td>@ViewBag.personas[i].Nombre</td>
                     <td>@ViewBag.personas[i].Peso</td>
                     <td>@ViewBag.personas[i].Estatura</td>
-                    <td>@ViewBag.imcs[i]</td>
+
+                    @if (@ViewBag.imcs[i] >= 18.5 && @ViewBag.imcs[i] <= 24.9)
+                    {
+                        <td class="text-success">
+                            <p>@ViewBag.imcs[i]</p>
+                        </td>
+                    }
+                    else
+                    {
+                        <td class="text-danger">
+                            <p>@ViewBag.imcs[i]</p>
+                        </td>
+                    }
                 </tr>
             }
 
@@ -53,18 +65,7 @@
 
 
     <div class="seccion_4">
-        @if (ViewBag.IMC > 20)
-        {
-            <div class="text-success">
-                <p>Mensaje</p>
-            </div>
-        }
-        else
-        {
-            <div class="text-danger">
-                <p>Otro mensaje</p>
-            </div>
-        }
+
     </div>
 </body>
 </html>
