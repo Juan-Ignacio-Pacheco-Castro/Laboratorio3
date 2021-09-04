@@ -24,33 +24,28 @@
     </div>
     <hr />
     <div class="seccion_3" id="s3">
-        <table class="table" id="tab">
-            <tr>
-                <th> Id</th>
-                <th> Nombre</th>
-                <th> Peso</th>
-                <th> Estatura</th>
-                <th> IMC</th>
-            </tr>
-
+        <table class="table" id="tab">            
             <script>
-                var x = "",i;
+                var x = "", i;
+                x = "<tr>"
+                    + "<th> Id</th>"
+                    + "<th> Nombre</th>"
+                    + "<th> Peso</th>"
+                    + "<th> Estatura</th>"
+                    + "<th> IMC</th>"
+                    + "</tr >";
                 for (i = 0; i < 30; ++i) {
-                    x = x + "<td>" + (char)64 + "ViewBag.personas[" + i + "].Id</td>";
-                    x = x + "<td>" + (char)64 + "ViewBag.personas[" + i + "].Nombre</td>";
-                    x = x + "<td>" + (char)64 + "ViewBag.personas[" + i + "].Peso</td>";
-                    x = x + "<td>" + (char)64 + "ViewBag.personas[" + i + "].Estatura</td>";
-                    x = x + "<td>" + (char)64 + "ViewBag.imcs[" + i + "]</td>";
+                    x = x + "<tr>";
+                    x = x + "<td>ViewBag.personas[" + i + "].Id</td>";
+                    x = x + "<td>ViewBag.personas[" + i + "].Nombre</td>";
+                    x = x + "<td>ViewBag.personas[" + i + "].Peso</td>";
+                    x = x + "<td>ViewBag.personas[" + i + "].Estatura</td>";
+                    x = x + "<td>ViewBag.imcs[" + i + "]</td>";
+                    x = x + "</tr>";
                 }
                 document.getElementById("tab").innerHTML = x;
             </script>
-            <tr>
-                <td>@ViewBag.personas[1].Id</td>
-                <td>@ViewBag.personas[1].Nombre</td>
-                <td>@ViewBag.personas[1].Peso</td>
-                <td>@ViewBag.personas[1].Estatura</td>
-                <td>@ViewBag.imcs[1]</td>
-            </tr>
+
         </table>
         <hr />
     </div>
