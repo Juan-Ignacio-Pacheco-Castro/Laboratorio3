@@ -77,3 +77,33 @@ C:\Users\juani\source\repos\Laboratorio3\Laboratorio3\Laboratorio3\obj\Debug\Lab
 C:\Users\juani\source\repos\Laboratorio3\Laboratorio3\Laboratorio3\obj\Debug\Laboratorio3.csproj.CopyComplete
 C:\Users\juani\source\repos\Laboratorio3\Laboratorio3\Laboratorio3\obj\Debug\Laboratorio3.dll
 C:\Users\juani\source\repos\Laboratorio3\Laboratorio3\Laboratorio3\obj\Debug\Laboratorio3.pdb
+C:\Users\Juan\Documents\Semestre 7\Calidad de Software\Planetario-develop\Laboratorio3\Laboratorio3\Laboratorio3\bin\Laboratorio3.dll.config
+C:\Users\Juan\Documents\Semestre 7\Calidad de Software\Planetario-develop\Laboratorio3\Laboratorio3\Laboratorio3\bin\Laboratorio3.dll
+C:\Users\Juan\Documents\Semestre 7\Calidad de Software\Planetario-develop\Laboratorio3\Laboratorio3\Laboratorio3\bin\Laboratorio3.pdb
+C:\Users\Juan\Documents\Semestre 7\Calidad de Software\Planetario-develop\Laboratorio3\Laboratorio3\Laboratorio3\bin\Antlr3.Runtime.dll
+C:\Users\Juan\Documents\Semestre 7\Calidad de Software\Planetario-develop\Laboratorio3\Laboratorio3\Laboratorio3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Juan\Documents\Semestre 7\Calidad de Software\Planetario-develop\Laboratorio3\Laboratorio3\Laboratorio3\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Juan\Documents\Semestre 7\Calidad de Software\Planetario-develop\Laboratorio3\Laboratorio3\Laboratorio3\bin\Newtonsoft.Json.dll
+C:\Users\Juan\Documents\Semestre 7\Calidad de Software\Planetario-develop\Laboratorio3\Laboratorio3\Laboratorio3\bin\System.Web.Helpers.dll
+C:\Users\Juan\Documents\Semestre 7\Calidad de Software\Planetario-develop\Laboratorio3\Laboratorio3\Laboratorio3\bin\System.Web.Mvc.dll
+C:\Users\Juan\Documents\Semestre 7\Calidad de Software\Planetario-develop\Laboratorio3\Laboratorio3\Laboratorio3\bin\System.Web.Optimization.dll
+C:\Users\Juan\Documents\Semestre 7\Calidad de Software\Planetario-develop\Laboratorio3\Laboratorio3\Laboratorio3\bin\System.Web.Razor.dll
+C:\Users\Juan\Documents\Semestre 7\Calidad de Software\Planetario-develop\Laboratorio3\Laboratorio3\Laboratorio3\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Juan\Documents\Semestre 7\Calidad de Software\Planetario-develop\Laboratorio3\Laboratorio3\Laboratorio3\bin\System.Web.WebPages.dll
+C:\Users\Juan\Documents\Semestre 7\Calidad de Software\Planetario-develop\Laboratorio3\Laboratorio3\Laboratorio3\bin\System.Web.WebPages.Razor.dll
+C:\Users\Juan\Documents\Semestre 7\Calidad de Software\Planetario-develop\Laboratorio3\Laboratorio3\Laboratorio3\bin\WebGrease.dll
+C:\Users\Juan\Documents\Semestre 7\Calidad de Software\Planetario-develop\Laboratorio3\Laboratorio3\Laboratorio3\bin\System.Web.Helpers.xml
+C:\Users\Juan\Documents\Semestre 7\Calidad de Software\Planetario-develop\Laboratorio3\Laboratorio3\Laboratorio3\bin\System.Web.Mvc.xml
+C:\Users\Juan\Documents\Semestre 7\Calidad de Software\Planetario-develop\Laboratorio3\Laboratorio3\Laboratorio3\bin\System.Web.Optimization.xml
+C:\Users\Juan\Documents\Semestre 7\Calidad de Software\Planetario-develop\Laboratorio3\Laboratorio3\Laboratorio3\bin\System.Web.Razor.xml
+C:\Users\Juan\Documents\Semestre 7\Calidad de Software\Planetario-develop\Laboratorio3\Laboratorio3\Laboratorio3\bin\System.Web.WebPages.xml
+C:\Users\Juan\Documents\Semestre 7\Calidad de Software\Planetario-develop\Laboratorio3\Laboratorio3\Laboratorio3\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Juan\Documents\Semestre 7\Calidad de Software\Planetario-develop\Laboratorio3\Laboratorio3\Laboratorio3\bin\System.Web.WebPages.Razor.xml
+C:\Users\Juan\Documents\Semestre 7\Calidad de Software\Planetario-develop\Laboratorio3\Laboratorio3\Laboratorio3\bin\Newtonsoft.Json.xml
+C:\Users\Juan\Documents\Semestre 7\Calidad de Software\Planetario-develop\Laboratorio3\Laboratorio3\Laboratorio3\bin\Antlr3.Runtime.pdb
+C:\Users\Juan\Documents\Semestre 7\Calidad de Software\Planetario-develop\Laboratorio3\Laboratorio3\Laboratorio3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Juan\Documents\Semestre 7\Calidad de Software\Planetario-develop\Laboratorio3\Laboratorio3\Laboratorio3\obj\Debug\Laboratorio3.csproj.AssemblyReference.cache
+C:\Users\Juan\Documents\Semestre 7\Calidad de Software\Planetario-develop\Laboratorio3\Laboratorio3\Laboratorio3\obj\Debug\Laboratorio3.csproj.CoreCompileInputs.cache
+C:\Users\Juan\Documents\Semestre 7\Calidad de Software\Planetario-develop\Laboratorio3\Laboratorio3\Laboratorio3\obj\Debug\Laboratorio3.csproj.CopyComplete
+C:\Users\Juan\Documents\Semestre 7\Calidad de Software\Planetario-develop\Laboratorio3\Laboratorio3\Laboratorio3\obj\Debug\Laboratorio3.dll
+C:\Users\Juan\Documents\Semestre 7\Calidad de Software\Planetario-develop\Laboratorio3\Laboratorio3\Laboratorio3\obj\Debug\Laboratorio3.pdb
